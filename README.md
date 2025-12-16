@@ -16,7 +16,7 @@ This repository currently provides an **Arabic OCR dataset**. Datasets for **Eng
 
 The technical specifications of each dataset are listed in the table below.
 
-| Language | Dataset Version | Link | Pages Count | Unique Words | Fonts Count | Full Dataset Link |
+| Language | Version | Link | Pages Count | Unique Words | Fonts Count | Full Dataset Link |
 |----------|-----------------|----------------------|--------------|--------------|--------------|-------------------|
 | Arabic   | v1.0            | [Gdrive (only 25k pages) ](https://drive.google.com/file/d/1Si0wTQ9sDm5744f_gFWEo2cFNzYcgi9i/view?usp=drive_link)            | TBD          | TBD          | TBD          | To obtain this dataset, please contact us at: deepcolab01[at]gmail.com [not free]               |
 
