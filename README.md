@@ -8,7 +8,7 @@ Each word is annotated with **pixel-accurate localization**, enabling tasks such
 
 This repository currently provides an **Arabic OCR dataset**. Datasets for **English, German, Italian, and Spanish** will be released soon.
 
-![OCR Sample](sample/showpages.png)
+![OCR Sample](sample/showpage.png)
 
 ---
 
