@@ -18,7 +18,7 @@ The technical specifications of each dataset are listed in the table below.
 
 | Language | Version | Link | Pages Count | Unique Words | Fonts Count | Full Dataset Link |
 |----------|-----------------|----------------------|--------------|--------------|--------------|-------------------|
-| Arabic   | v1.0            | [Gdrive (only 25k pages) ](https://drive.google.com/file/d/1Si0wTQ9sDm5744f_gFWEo2cFNzYcgi9i/view?usp=drive_link)            | TBD          | TBD          | 1          | To obtain the full dataset, please contact us at: deepcolab01[at]gmail.com [not free]               |
+| Arabic   | v1.0            | [Gdrive (only 25k pages) ](https://drive.google.com/file/d/1Si0wTQ9sDm5744f_gFWEo2cFNzYcgi9i/view?usp=drive_link)            | ~530K          | TBD          | 1          | To obtain the full dataset, please contact us at: deepcolab01[at]gmail.com [not free]               |
 
 
 ---
