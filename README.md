@@ -16,7 +16,7 @@ This repository currently provides an **Arabic OCR dataset**. Datasets for **Eng
 
 The technical specifications of each dataset are listed in the table below.
 
-| Language | Version | Link | Pages Count | Unique Words | Fonts Count | Full Dataset Link |
+| Language | Version | Demo Link | Pages Count | Unique Words | Fonts Count | Full Dataset Link |
 |----------|-----------------|----------------------|--------------|--------------|--------------|-------------------|
 | Arabic   | v1.0            | [Gdrive (only 25k pages) ](https://drive.google.com/file/d/1PZ2VmHQBOPTrMpBf8ZFKSBjQFmcqPu1f/view?usp=drive_link)            | ~521K          | 3012869          | 1          | To obtain the full dataset, please contact us at: craneset[at]outlook.com [not free]               |
 | Arabic   | v2.0            | [Gdrive (only 13k pages) ](https://drive.google.com/file/d/11YzGrGmAjJTFY-hX2KGQJktK2peQhhbd/view?usp=drive_link)            | ~534K          | 2502545          | 5          | To obtain the full dataset, please contact us at: craneset[at]outlook.com [not free]               |
